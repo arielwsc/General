@@ -1,0 +1,10 @@
+Account number: 012345 / Account type: Residential / Total to pay: $62.50
+Account number: 123456 / Account type: Business    / Total to pay: $160.00
+Account number: 654321 / Account type: Residential / Total to pay: $92.50
+Account number: 054321 / Account type: Business    / Total to pay: $145.00
+Account number: 223344 / Account type: Residential / Total to pay: $25.00
+Account number: 115566 / Account type: Residential / Total to pay: $175.00
+Account number: 654456 / Account type: Business    / Total to pay: $146.00
+Account number: 951623 / Account type: Business    / Total to pay: $200.00
+Average of residential customers: $88.75
+Average of business customers: $162.75

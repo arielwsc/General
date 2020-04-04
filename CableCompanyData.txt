@@ -1,0 +1,9 @@
+CustomerTypeCustomerAccount#,numOfBasicServConn(Business),numOfPremChannels
+R012345 5
+B123456 10 20
+R654321 9
+B054321 10 5
+R223344 0
+R115566 20
+B654456 0 6
+B951623 20 10
