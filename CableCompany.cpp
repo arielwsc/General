@@ -1,6 +1,4 @@
 //Name: Ariel Souza de Carvalho
-//Class: Fall - COSC 1436.81003
-//Final Project: Cable Company Billing
 //Revision: 1.0
 //Date: 12/9/2019
 //Description: This program will extract customer data from a file and calculate and output their bill to another file
