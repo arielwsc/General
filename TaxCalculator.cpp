@@ -1,6 +1,4 @@
 //Name: Ariel Souza de Carvalho
-//Class: Fall - COSC 1436-81003
-//Project 9: Tax calculator
 //Revision: 1.0
 //Date: 11/25/2019
 //Description: This program will calculate how much the user needs to pay for their tax based on several details about them
