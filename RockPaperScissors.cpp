@@ -1,6 +1,6 @@
  
 //*************************************************************
-// Author: Isaac David, Zubin Jayaseelan, Keaton Davis, Ariel Carvalho 
+// Author: Ariel Carvalho 
 // 
 // Program: Rock, Paper, and Scissors
 // This program plays the game of rock, paper, and scissors.
