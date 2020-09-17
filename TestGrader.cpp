@@ -1,6 +1,4 @@
 //Name: Ariel Souza de Carvalho
-//Class: Fall - COSC 1436.81003
-//Project 10: Test Grader
 //Revision: 1.0
 //Date: 12/4/2019
 //Description: This program will read test data from a file and calculate score and grade letter for each student
