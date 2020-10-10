@@ -1,5 +1,5 @@
 //Name: Ariel Souza de Carvalho
-//Revision: 1.0
+//Revision: 1.1
 //Date: 12/9/2019
 //Description: This program will extract customer data from a file and calculate and output their bill to another file
 
